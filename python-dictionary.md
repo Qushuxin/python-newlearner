@@ -1,7 +1,4 @@
 # python——第六章_字典_01
-
-标签（空格分隔）： 未分类
-
 ---
 ```
 alien_0 = {'color':'green', 'points': 5}
